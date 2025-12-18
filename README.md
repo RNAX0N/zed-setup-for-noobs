@@ -14,6 +14,7 @@ Examples are given for setting fonts, font sizes, cursor behavior, and overall t
 Newbies: // the start of a line signals a comment that does not get parsed
 json "keys" are signaled within blocks of {}
 
+'''jsonc
 {
   // AI assistant configuration
   "agent": {
@@ -69,6 +70,6 @@ json "keys" are signaled within blocks of {}
     "file_icons": true
   }
 }
-
+'''
 
 Full Configuration Options List available at: https://www.kevnu.com/en/posts/zed-editor-configuration-guide-autosave-prettier-terminal-font-and-formatting-made-easy
