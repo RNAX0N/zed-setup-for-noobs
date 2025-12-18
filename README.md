@@ -7,7 +7,7 @@ Initial Configuration:
 
 Zed can be configured through the GUI, but the best way to do it (and the way the changes are actually applied) is through the settings.json file.
 
-On Linux (most distros), this file is at ~/.config/zed/settings.json
+On Linux (most distros), this file is at `~/.config/zed/settings.json`
 (~/ refers to /home/{user}/ for Linux newbies. So /home/{yourusername}/.config/zed/settings.json)
 
 Example: (Also @ settings.json in this repository)
