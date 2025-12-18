@@ -1,6 +1,8 @@
 # zed-setup-for-noobs
 A simple guide on setting up Zed editor for people switching from VSCode or generally inexperienced users
 
+For someone who doesn't want to waste a ton of time and would like to just get started, here's a very basic configuration that will allow for some AI assistance without being too annoying.
+
 Initial Configuration:
 
 Zed can be configured through the GUI, but the best way to do it (and the way the changes are actually applied) is through the settings.json file.
