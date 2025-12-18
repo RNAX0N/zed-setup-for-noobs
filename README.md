@@ -8,7 +8,7 @@ Initial Configuration:
 Zed can be configured through the GUI, but the best way to do it (and the way the changes are actually applied) is through the settings.json file.
 
 On Linux (most distros), this file is at `~/.config/zed/settings.json`
-(~/ refers to /home/{user}/ for Linux newbies. So /home/{yourusername}/.config/zed/settings.json)
+(`~/` refers to `/home/{user}/` for Linux newbies. So `/home/{yourusername}/.config/zed/settings.json`)
 
 Example: (Also @ settings.json in this repository)
 The following example disables telemetry, disables vim mode to give similar keymapping to VSCode, and includes an Ollama qwen2.5-coder:32b local model as well as Gemini 3 for AI assistance.
